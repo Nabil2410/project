@@ -1,0 +1,13 @@
+- class
+- abs
+- Primitive
+- .attr
+- .cexpr
+- bit_length
+- magnitude
+- odd?
+- ord
+- self
+- .to_int
+- zero 
+
